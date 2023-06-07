@@ -17,7 +17,8 @@ Through dataset baby, I can know the birthdates of babies for different user ids
 - babies and products: which age range/gender buy which products the most
 - repeat buys: the rate of repeat buyers  
 
-<img width="1138" alt="Baby Goods Analysis" src="https://github.com/chaiweee/baby_products_shopping_analysis/assets/125619716/2da2dab1-89de-41f7-a11c-817932369e73">
+<img width="1138" alt="Baby Goods Analysis" src="https://github.com/chaiweee/baby_product_shopping_analysis/assets/125619716/26f6fb57-7ad3-4833-b423-18c137cd7ffb">
+
 
 Shoutout to these great references:  
 1. https://github.com/Solitude02/Baby-Goods-Info-Data-Analysis/blob/main/%E6%B7%98%E5%AE%9D%E6%AF%8D%E5%A9%B4%E8%B4%AD%E7%89%A9%E5%88%86%E6%9E%90.ipynb  
